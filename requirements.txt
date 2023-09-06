@@ -1,0 +1,8 @@
+nltk
+tensorflow
+keras
+tensorflow.keras.preprocessing.sequence
+tensorflow.keras.layers
+tensorflow.keras.preprocessing.text
+tensorflow.keras.models
+sklearn
